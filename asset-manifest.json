@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Age-calculator-app/static/js/main.d626dfb2.js",
+    "index.html": "/Age-calculator-app/index.html",
+    "static/media/icon-arrow.svg": "/Age-calculator-app/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
+    "main.d626dfb2.js.map": "/Age-calculator-app/static/js/main.d626dfb2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d626dfb2.js"
+  ]
+}
