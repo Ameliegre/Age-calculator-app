@@ -5,7 +5,7 @@ import AgeCalculator from './AgeCalculator'
 
 const FormStyle = styled.form`
   height: 134px;
-  @media (max-width: 375px) {
+  @media (max-width: 650px) {
     height: 200px;
    }
 `
@@ -13,7 +13,7 @@ const FormStyle = styled.form`
 const InputWrapper = styled.div `
   display: flex;
   flex-direction: row;
-  @media (max-width: 375px) {
+  @media (max-width: 650px) {
    padding: 3%;
    padding-top: 7%;
   }
@@ -36,7 +36,7 @@ const ButtonStyle = styled.button `
     background-color: hsl(0, 0%, 8%);
     cursor: pointer;
   }
-  @media (max-width: 375px) {
+  @media (max-width: 650px) {
     transition: left 0.3s ease-out;
     left: 40%
   }

@@ -5,7 +5,7 @@ const AgeCalculatorWrapper = styled.div`
     display: flex;
     flex-direction: row;
     align-items: center;
-    @media (max-width: 375px) {
+    @media (max-width: 650px) {
         padding-left: 14px;
        }
 `

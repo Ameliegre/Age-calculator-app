@@ -24,7 +24,7 @@ const GlobalStyle = createGlobalStyle`
     border-radius: 4% 4% 30%;
     padding: 3%;
     font-family: 'Poppins', sans-serif;
-    @media (max-width: 375px) {
+    @media (max-width: 650px) {
       width: 90%;
       border-radius: 4% 4% 22%
     }
@@ -41,7 +41,7 @@ const GlobalStyle = createGlobalStyle`
     border-width: thin;
     border-color: hsl(0, 0%, 86%);
     outline: none;
-    @media (max-width: 375px) {
+    @media (max-width: 650px) {
       font-size: 23px;
       width: 60px;
       margin-right: 23px;
@@ -58,7 +58,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-weight: 800;
     font-style: italic;
-    @media (max-width: 375px) {
+    @media (max-width: 650px) {
       font-size: 55px;
     }
   }
@@ -69,7 +69,7 @@ const GlobalStyle = createGlobalStyle`
     font-style: italic;
     margin: 0;
     margin-left: 10px;
-    @media (max-width: 375px) {
+    @media (max-width: 650px) {
       font-size: 55px;
     }
   }
